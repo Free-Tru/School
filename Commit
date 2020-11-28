@@ -1,0 +1,6 @@
+<h1> New Angle </p>
+(a68.9c0): Access violation - code c0000005 (first chance)
+First chance exceptions are reported before any exception handling.
+This exception may be expected and handled.
+edgehtml!`TextInput::TextInputLogging::Instance'::`2'::`dynamic atexit destructor for 'wrapper''+0x1389aa:
+00007ffa`9d5f15ea 488b01          mov     rax,qword ptr [rcx] ds:00000000`abcdbbbb=????????????????
